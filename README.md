@@ -11,6 +11,22 @@ The site includes:
 - Images for each recipe in the `recipes/images` folder
 - Simple HTML-only structure with no external frameworks
 
+## Project Snapshot
+
+Here are visual snapshots of the recipe collection included in the project:
+
+![Chinese Vegetable Fried Rice](./recipes/images/recipe1.jfif)
+
+![Chinese Chow Mein](./recipes/images/recipe2.jfif)
+
+![Chinese Spring Rolls](./recipes/images/recipe3.jfif)
+
+![Hot & Sour Soup](./recipes/images/recipe4.jfif)
+
+![Kung Pao Chicken](./recipes/images/recipe5.jfif)
+
+![Chicken Manchurian](./recipes/images/recipe6.jfif)
+
 ## Recipe List
 
 1. Chinese Vegetable Fried Rice
